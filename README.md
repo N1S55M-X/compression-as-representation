@@ -164,6 +164,32 @@ Most predictive power is contained within the compressed representation itself.
 | Polar Compression    | ~170     | MLP                 | ~50%          |
 | Quadtree Compression | 170      | MLP                 | 95.46%        |
 | Quadtree Compression | 170      | Logistic Regression | 92.35%        |
+---
+
+## Polar Compression
+
+### Training Results
+
+<img width="627" height="481" alt="Polar Compression Results" src="https://github.com/user-attachments/assets/1508f43f-20d2-47ec-a669-29bfb919efee" />
+
+---
+
+## Quadtree Compression + MLP
+
+### Training Results
+
+<img width="473" height="240" alt="Quadtree Compression MLP Results" src="https://github.com/user-attachments/assets/0e8abec9-5b28-4b5b-9b31-945c67e34fd4" />
+
+---
+
+## Quadtree Compression + Logistic Regression
+
+### Training Results
+
+<img width="463" height="272" alt="Quadtree Compression Logistic Regression Results" src="https://github.com/user-attachments/assets/6c26631f-7241-40a9-8ab5-bdecb31febe5" />
+
+
+
 
 ---
 
